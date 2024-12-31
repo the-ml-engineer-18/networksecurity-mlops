@@ -1,0 +1,12 @@
+2024-12-31 20:04:36-ArithmaticApp-DEBUG-Adding 10 + 15 = 25
+2024-12-31 20:04:36-ArithmaticApp-DEBUG-Subtracting 15 + 10 = 5
+2024-12-31 20:04:36-ArithmaticApp-DEBUG-Multiplying 10 + 20 = 200
+2024-12-31 20:04:36-ArithmaticApp-DEBUG-Dividing 24 + 6 = 4.0
+2024-12-31 20:04:56-ArithmaticApp-DEBUG-Adding 10 + 15 = 25
+2024-12-31 20:04:56-ArithmaticApp-DEBUG-Subtracting 15 - 10 = 5
+2024-12-31 20:04:56-ArithmaticApp-DEBUG-Multiplying 10 * 20 = 200
+2024-12-31 20:04:56-ArithmaticApp-DEBUG-Dividing 24 / 6 = 4.0
+2024-12-31 20:13:15-ArithmaticApp-DEBUG-Adding 10 + 15 = 25
+2024-12-31 20:13:15-ArithmaticApp-DEBUG-Subtracting 15 - 10 = 5
+2024-12-31 20:13:15-ArithmaticApp-DEBUG-Multiplying 10 * 20 = 200
+2024-12-31 20:13:15-ArithmaticApp-ERROR-Division by zero error

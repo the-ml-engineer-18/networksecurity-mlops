@@ -1,0 +1,10 @@
+2024-12-31 18:49:22-root-INFO-This is info message!!
+2024-12-31 18:49:22-root-WARNING-This is warning message!!
+2024-12-31 18:49:22-root-ERROR-This is error message!!
+2024-12-31 18:49:22-root-CRITICAL-This is a critical message!!
+2024-12-31 18:49:36-root-INFO-This is info message!!
+2024-12-31 18:49:36-root-WARNING-This is warning message!!
+2024-12-31 18:49:36-root-ERROR-This is error message!!
+2024-12-31 18:49:36-root-CRITICAL-This is a critical message!!
+2024-12-31 19:53:03-module1-DEBUG-This is debug message for module1
+2024-12-31 19:53:03-module2-WARNING-This is a warning message for module 2
