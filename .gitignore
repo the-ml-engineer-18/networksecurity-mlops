@@ -1,3 +1,5 @@
 venv
 .env
 mlflow-learning\venv\
+mlflow-learning/mlruns/
+mlflow-learning/mlartifacts/
