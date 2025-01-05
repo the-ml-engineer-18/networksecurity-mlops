@@ -6,8 +6,3 @@ mlflow-learning/mlartifacts/
 mlflow-learning/1-MLProject/mlruns
 mlflow-learning/1-MLProject/mlartifacts
 mlflow-learning/2-DLproject/mlruns
-DVCDEMO\venv\
-DVCDEMO/.dvc/config.local
-DVCDEMO/.dvc/tmp
-DVCDEMO/.dvc/cache
-DVCDEMO/data/
