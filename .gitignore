@@ -10,3 +10,4 @@ DVCDEMO\venv\
 DVCDEMO/.dvc/config.local
 DVCDEMO/.dvc/tmp
 DVCDEMO/.dvc/cache
+DVCDEMO\data\data.txt
